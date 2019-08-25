@@ -1,0 +1,10 @@
+
+images/
+
+venv/
+
+test/
+
+__pycache__/
+
+models/
